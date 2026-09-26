@@ -1,6 +1,6 @@
 # Core API Specification & Integration Guide
 **รายวิชา 310-2203 Cloud-Based Backend Integration System**  
-**กลุ่ม 3 (Group 03) | ผู้รับผิดชอบ: Member 5 – Database Architecture & Core API Specialist**  
+**กลุ่ม 3 (Group 03) | ผู้รับผิดชอบ: ธัญญ์วรัตน์ – Database Architecture & Core API Specialist**  
 **URL ระบบ (Azure VM):** `https://g3-project.duckdns.org/swagger`
 
 ---
