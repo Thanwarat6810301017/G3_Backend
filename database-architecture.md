@@ -1,6 +1,6 @@
 # Database Architecture & Schema Specification
 **รายวิชา 310-2203 Cloud-Based Backend Integration System**  
-**กลุ่ม 3 (Group 03) | ผู้รับผิดชอบ: Member 5 – Database Architecture & Core API Specialist**  
+**กลุ่ม 3 (Group 03) | ผู้รับผิดชอบ: ธัญญ์วรัตน์ – Database Architecture & Core API Specialist**  
 **เป้าหมาย:** รองรับ Part B (5 Public APIs), Bonus 3 (XML Import 1,000 Records), และ Bonus 4 (JSON Import 1,000 Records)
 
 ---
